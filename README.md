@@ -28,7 +28,7 @@ A GitHub user analysis tool built with **React**, **TypeScript**, and **ShadCN/U
 ### 🛠️ 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/github_profile_analyzer.git
+git clone https://github.com/krushnadiwate2417/github_profile_analyzer.git
 cd github_profile_analyzer
 ```
 

@@ -1,0 +1,1 @@
+export const PROFILE_URL : string = 'https://api.github.com/users/';

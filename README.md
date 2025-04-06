@@ -72,12 +72,8 @@ Easily deploy using platforms like [**Vercel**](https://vercel.com/) or [**Netli
 
 ---
 
-## 📁 Google Drive Submission
+## 📁 Google Drive Link
 
-Zip your entire project folder, including this `README.md`.\
-Upload it to **Google Drive** and make sure the sharing permissions are set to **"Anyone with the link can view"**.
-
-> 📎 Paste the viewable Google Drive link here:
 
 ```
 https://drive.google.com/drive/folders/1ZNSFibiNn4W41E0ZZi6L2kTBnD7Ga8cC?usp=drive_link
